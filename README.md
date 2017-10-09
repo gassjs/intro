@@ -1,14 +1,12 @@
 # JavaScript Development
 ## Introduction
 
-- **Model** means it can be applied in different contexts.
-- **DNS server** lookup
-- Retail store analogy
+- **Model** means it can be applied in different contexts
+- **DNS server** lookup dns records
+    - Retail store analogy
 
 ### Web Production
-- take designs and turn them into code + assets with html/css
-- js is for interactions.
-
-**Node** lets you run js outside of browser.
-
-**Compiled** cf **just-in-time**
+- Take designs and turn them into code + assets with html/css
+- Use JS for interactions
+- **Node** lets you run JS outside of browser
+- **compiled** cf **just-in-time**
