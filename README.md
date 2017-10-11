@@ -12,6 +12,9 @@
 - **compiled** cf **just-in-time**
 
 - **Terminal** a text input/output environment to interact with a computer
-- **Console** traditionally a physical terminal but used interchangeably
+- **Console** traditionally a physical terminal but used interchangeably with...
+- `echo` returns a string
 
-`echo` returns a string
+##### `git diff`
+- Tests changes to a *file*
+- Run *before* adding files
