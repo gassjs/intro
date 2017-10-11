@@ -10,3 +10,8 @@
 - Use JS for interactions
 - **Node** lets you run JS outside of browser
 - **compiled** cf **just-in-time**
+
+- **Terminal** a text input/output environment to interact with a computer
+- **Console** traditionally a physical terminal but used interchangeably
+
+`echo` returns a string
