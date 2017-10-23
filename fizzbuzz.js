@@ -9,15 +9,15 @@
 // ##### Step 1:
 // Construct a for loop that iterates through, and `console.log()`'s out, numbers 1 - 100.
 for (let count = 1; count <= 100; count++) {
-if (count % 3 == 0) {
-  console.log("fizz")
-} else if (count % 5 == 0) {
-  console.log("buzz")
-} else if (count % 3 == 0 && count % 5 == 0) {
-  console.log("fizzbuzz")
-} else {
-  console.log(count)
-}
+  if (count % 3 == 0) {
+    console.log("fizz")
+  } else if (count % 5 == 0) {
+    console.log("buzz")
+  } else if (count % 3 == 0 && count % 5 == 0) {
+    console.log("fizzbuzz")
+  } else {
+    console.log(count)
+  }
 }
 // ##### Step 2:
 // Add an `if/else` statement that logs the string `"fizz"` if the value being iterated over is divisible by `3`; otherwise, log out the value.

@@ -1,4 +1,3 @@
-// IF / WHEN / THEN
 function getRandomResult() {
   const choices = [
     'rock',
@@ -33,7 +32,7 @@ function showEmojis() {
 
 function playerWins() {
   document.querySelector('.result h2').innerText = 'Player wins!'
-
+  
   showEmojis()
 
   showResult()
