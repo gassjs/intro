@@ -1,4 +1,3 @@
-
 Identify likely objects, attributes, and methods in each scenario. Remember to consider implicit objects as well as explicit ones.
 
     A user is required to watch video training sessions as part of a recertification process and answer questions about them.
