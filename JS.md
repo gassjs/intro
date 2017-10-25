@@ -1,35 +1,3 @@
-Identify likely objects, attributes, and methods in each scenario. Remember to consider implicit objects as well as explicit ones.
-
-    A user is required to watch video training sessions as part of a recertification process and answer questions about them.
-
-    - User
-    - Videos
-    - Questions
-    - Completion
-
-    - Watch
-    - Completion
-    - Required
-
-    A user on a cooking website enters the number of dinner guests, and the cooking website adjusts all the recipes accordingly.
-
-    - Guests
-    - Recipes
-
-    - Quantity
-
-    A user who had reserved a GoGet arrives to find it has not been returned yet, and customer service transfers her reservation to an available car.
-
-    - User
-    - Car
-
-    Booking
-    Returned
-
-    A computer game allows the user to take the role of a unit commander or general at Gettysburg and simulates the battle based on his or her commands.
-
-    A user searches for her reservation on a hotel website, and changes the arrival date and room type.
-
 # JavaScript Development
 ## Introduction
 
@@ -74,9 +42,6 @@ You `.save+filename` saves session which can be referenced by `.load+filename`
 <dd>..help  </dt>   Print this help message
 <dd>..load</dt>     Load JS from a file into the REPL session
 <dd>..save</dt>     Save all evaluated commands in this REPL session to a file
-
-
-
 
 # 3
 ## Arrays, Functions &amp; Scope
