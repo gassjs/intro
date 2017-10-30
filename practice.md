@@ -12,3 +12,4 @@ Write a program that outputs results based on users’ age. This exercise draws 
 - If you are 62 or older, you collect your pension.
 
 Have the program print out only the most recent thing that they've become eligible to do, i.e. if they are 46, only print "You can run for prime minister".
+l q
